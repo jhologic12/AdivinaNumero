@@ -1,0 +1,15 @@
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\bin\Debug\net6.0\AdivinaNumero.exe
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\bin\Debug\net6.0\AdivinaNumero.deps.json
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\bin\Debug\net6.0\AdivinaNumero.runtimeconfig.json
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\bin\Debug\net6.0\AdivinaNumero.dll
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\bin\Debug\net6.0\AdivinaNumero.pdb
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.csproj.AssemblyReference.cache
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.AssemblyInfoInputs.cache
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.AssemblyInfo.cs
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.csproj.CoreCompileInputs.cache
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.dll
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\refint\AdivinaNumero.dll
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.pdb
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\AdivinaNumero.genruntimeconfig.cache
+E:\Proyectos C sharp\AdivinaNumero\AdivinaNumero\obj\Debug\net6.0\ref\AdivinaNumero.dll
